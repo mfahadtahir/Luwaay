@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Raleway');
+@import url('https://fonts.googleapis.com/css?family=Cabin|Courgette|Great+Vibes|Merienda|Permanent+Marker');
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two&display=swap');
+
+body {
+  font-family: 'Raleway', sans-serif !important;
+  box-sizing: border-box;
+  background-color: #f5f5f5 ;
+  padding-top: 20px;
+}
+
+.thanks {
+  font-family: 'Great Vibes' !important;
+  filter: drop-shadow(2px 2px 4px #f0458cee);
+}
+
+.font {
+  font-family: 'Lobster Two', cursive;
+  transform: rotate(-20deg);
+}
+
+.first {
+  text-align: center;
+  color: #f5833e;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 120px;
+}
+.second {
+  text-align: center;
+  font-size: 40px;
+  line-height: 1.2;
+  font-style: italic;
+}
+.tabCard {
+  width: 50%;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 20px 5px grey;
+}
+#test1, #test2 {
+  padding: 10px;
+}
+select {
+  display: block;
+}
+#message {
+  color: red;
+  font-size: 20px;
+  line-height: 1.5;
+}
+#cross {
+  font-size: 20px;
+  color: black;
+  background: transparent;
+}
+#cross:hover {
+  color: red;
+  background: transparent;
+}
+hr {
+  border-color: rgb(219, 73, 122) !important;
+}
+@import url("https://fonts.googleapis.com/css?family=Darker+Grotesque&display=swap");
+
+.quote{
+  font-family: 'Darker Grotesque', sans-serif !important;
+}
+
+.link-Name{
+  /* font-size: 30px; */
+  display: block;
+  font-weight: 800 !important;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  text-align: center;
+  background: rgba(3, 3, 3, 0.5)
+  
+}
+.link-Name:hover{
+  font-size: 26px;
+  background: rgba(3, 3, 3, 0.7);
+}
+
+@media only screen and (min-width: 100px) and (max-width:500px) {
+  .ServicesPageSliders{
+    width: 300px;
+    margin-left: 5px;
+  }
+  .mainFashion{
+    height: 200;
+  }
+}
+@media only screen and (min-width: 500px) and (max-width:600px) {
+  .ServicesPageSliders{
+    width: 220px;
+    margin-left: 5px;
+  }
+  .mainFashion{
+    height: 300px;
+  }
+}
+@media only screen and (min-width: 600px) and (max-width:700px) {
+  .ServicesPageSliders{
+    width: 180px;
+    margin-left: 5px;
+  }
+  .mainFashion{
+    height: 300px;
+  }
+}
+@media only screen and (min-width: 700px) and (max-width:800px) {
+  .ServicesPageSliders{
+    width: 200px;
+    margin-left: 5px;
+  }
+  .mainFashion{
+    height: 400px;
+  }
+}
+@media only screen and (min-width: 800px) and (max-width:900px) {
+  .ServicesPageSliders{
+    width: 230px;
+    margin-left: 5px;
+  }
+  .mainFashion{
+    height: 400px;
+  }
+}
+@media only screen and (min-width: 900px) and (max-width:1000px) {
+  .ServicesPageSliders{
+    width: 265px;
+    margin-left: 5px;
+  }
+  .mainFashion{
+    height: 500px;
+  }
+}
+@media only screen and (min-width: 1000px) and (max-width:1200px) {
+  .ServicesPageSliders{
+    width: 290px;
+    margin-left: 5px;
+  }
+  .mainFashion{
+    height: 500px;
+  }
+}
+@media only screen and (min-width: 1200px)  {
+  .ServicesPageSliders{
+    width: 290px;
+    margin-left: 5px;
+  }
+  .mainFashion{
+    height: 600px;
+  }
+}
+
+.setAsFavouriteHome:hover,.setAsFavouriteHome:active,.setAsFavouriteHome:focus{
+  color: palevioletred;
+  background: pink;
+  border-color: pink !important;
+}
+.MuiStepContent-root{
+  border-left: 'white !important';
+}
