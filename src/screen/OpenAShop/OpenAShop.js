@@ -3,7 +3,7 @@ import Nav from '../../component/global/nav';
 import M from 'materialize-css';
 import Footer from '../../component/global/footer';
 // import { MStepper } from 'materialize-stepper'
-import StepperList from './stepperList'
+// import StepperList from './stepperList'
 // import OpenShopForm from './OpenShopForm'
 // import { CheckAndRender } from '../../component/global/partials/menu';
 import "../../index.css";

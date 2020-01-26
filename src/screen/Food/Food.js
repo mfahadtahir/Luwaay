@@ -12,7 +12,7 @@ import iceCream from "../../images/ice-cream.jpg";
 import fruits from "../../images/fruits.jpg";
 import newArrivalPoster1 from "../../images/Food/RedPeper1.jpg";
 import newArrivalPoster2 from "../../images/Food/fotolia_52283514_subscription_xl-copy.jpg";
-import newArrivalPoster3 from "../../images/Food/download (1).jpg";
+import newArrivalPoster3 from "../../images/Food/RedPeper1.jpg";
 import {FeaturesProductFood} from './ShowCaseCards/Featured'
 import {PopularInYourArea} from './ShowCaseCards/PopularInArea'
 import { Vegans } from './ShowCaseCards/vegans';
